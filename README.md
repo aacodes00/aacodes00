@@ -1,3 +1,5 @@
+# 👋 Hola!! I'm Ameya, an SDE from India
+
 👨‍💻 **DSA Enthusiast | Aspiring Backend Developer**  
 💡 Solving problems, one algorithm at a time!  
 🔧 Working on Data Structures & Algorithms (DSA)  
