@@ -1,29 +1,12 @@
-<h2 align="left">Hi I'm Ameya. Software Engineer from India.</h2>
+👨‍💻 **DSA Enthusiast | Aspiring Backend Developer**  
+💡 Solving problems, one algorithm at a time!  
+🔧 Working on Data Structures & Algorithms (DSA)  
+🚀 Soon building backend projects with **Java** & **Spring Boot**  
+🎯 Mission: Crack interviews at top product companies  
+💪 Passionate about coding challenges and software engineering  
+🌱 Currently deep-diving into system design and backend architecture  
+🔍 Always learning, always growing  
 
-###
-
-<p align="left">I'm currently improving my DSA & problem solving skills 🥷</p>
-
-###
-
-<p align="left">Follow me along, for my progress in cracking FAANG Companies 💻</p>
-
-###
-
-<div align="right">
-  <img src="https://profile-counter.glitch.me/aacodes00/count.svg?"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
+📬 **Let's Connect**:  
+📧 Email: your-email@example.com | [LinkedIn](https://www.linkedin.com/in/ameyaadam/)
+🔗 Check out my repositories below to see my DSA solutions and upcoming backend projects!
