@@ -8,5 +8,5 @@
 🔍 Always learning, always growing  
 
 📬 **Let's Connect**:  
-📧 Email: your-email@example.com | [LinkedIn](https://www.linkedin.com/in/ameyaadam/)
+[LinkedIn](https://www.linkedin.com/in/ameyaadam/)
 🔗 Check out my repositories below to see my DSA solutions and upcoming backend projects!
