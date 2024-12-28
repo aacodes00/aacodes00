@@ -17,6 +17,7 @@
 ![SQL](https://img.shields.io/badge/SQL-%232C3E50.svg?style=flat&logo=database)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)  
 ![Angular](https://img.shields.io/badge/Angular-%23E23237.svg?style=flat&logo=angular&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%2320232a.svg?style=flat&logo=amazon-aws&logoColor=white)
 
 📬 **Let's Connect**:  
 [LinkedIn](https://www.linkedin.com/in/ameyaadam/)
